@@ -1,0 +1,20 @@
+{
+    "name": "technomike/guzzle-twitter",
+    "description": "PoC for Sitepoint article",
+    "authors": [
+        {
+            "name": "Miguel Ibarra",
+            "email": "lordmike_98@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "4.*",
+        "guzzlehttp/oauth-subscriber": "*",
+        "guzzlehttp/log-subscriber": "1.*",
+        "monolog/monolog": "*"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}

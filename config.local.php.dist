@@ -1,0 +1,7 @@
+<?php
+
+return array(
+    'consumer_key'    => '', // Your consumer key
+    'consumer_secret' => '', // Your consumer secret
+    'oauth_callback'  => ''  // URL to where Twitter will return control over a successful auth request
+);
