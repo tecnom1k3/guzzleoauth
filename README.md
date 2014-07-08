@@ -1,6 +1,8 @@
 Guzzle OAUTH
 ===========
 
+![Guzzle + OAUTH + Twitter](http://s1.postimg.org/lm460hicf/article_logo.png)
+
 Sample project demonstrating Guzzle's OAUTH capabilities for Sitepoint
 
 This is a quick and dirty sample showing off Guzzle's OAUTH capabilities, using them to connect to Twitter.
