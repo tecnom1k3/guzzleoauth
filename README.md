@@ -12,4 +12,4 @@ This is a quick and dirty sample showing off Guzzle's OAUTH capabilities, using 
 No security checks and validations were enforced.  I take no responsability on damages or loss of data of any kind while
 running this code.
 
-This code was written **for educational porpuses only**.
+This code was written **for educational purposes only**.
